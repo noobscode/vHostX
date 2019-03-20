@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# vHosterX by NoobsCode
+# vHostX by NoobsCode
 # Author: Alexander A. Nordbo
 # UR: https://github.com/noobscode
 

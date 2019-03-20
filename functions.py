@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# vHosterX by NoobsCode
+# vHostX by NoobsCode
 # Author: Alexander A. Nordbo
 # UR: https://github.com/noobscode
 
@@ -20,7 +20,7 @@ def help():
 def header():
 	print(r"""
 
-	vHosterX By NoobsCode
+	vHostX By NoobsCode
 	https://github.com/noobscode
 
 	""")
