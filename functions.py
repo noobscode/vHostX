@@ -15,6 +15,7 @@ import os
 def help():
 	print("""
 	Feel free to open an issue on github.
+	https://github.com/noobscode/vHostX/issues
 	""")
 
 def header():
